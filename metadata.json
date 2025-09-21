@@ -1,0 +1,5 @@
+{
+  "name": "AI Resume Builder",
+  "description": "An AI-powered application to help users create, refine, and format professional resumes. Users can choose from multiple templates, input their details, and use AI to enhance their content. The final resume can be downloaded as a PDF or PNG.",
+  "requestFramePermissions": []
+}
